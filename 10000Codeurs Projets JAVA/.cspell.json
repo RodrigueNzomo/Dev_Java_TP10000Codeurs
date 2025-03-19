@@ -1,0 +1,6 @@
+{
+  "version": "0.2",
+  "language": "en,fr",
+  "words": ["motTechnique", "JavaFX", "SpringBoot"],
+  "ignorePaths": ["**/node_modules/**", "**/dist/**", "*.md"]
+}
